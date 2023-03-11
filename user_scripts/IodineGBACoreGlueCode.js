@@ -2,7 +2,6 @@
 
 var games = {
     "007":"007 - Everything Or Nothing",
-    "Madden NFL 07 (USA)" : "Madden 07"
     "advancewars":"Advance Wars",
     "advancewars2":"Advance Wars 2",
     "aladdin":"Aladdin",
